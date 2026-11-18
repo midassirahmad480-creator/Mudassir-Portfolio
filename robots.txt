@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://midassirahmad480-creator.github.io/Mudassir-Portfolio/sitemap.xml
